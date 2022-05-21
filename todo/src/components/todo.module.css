@@ -1,0 +1,27 @@
+.todo{
+
+    display: flex;
+    margin: auto;
+    font-size: 20px;
+    width: 15%;
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+.input{
+    font-size: 20px;
+    border-radius: 5px;
+    border:none;
+    background-color: antiquewhite;
+    margin-right: 2px;
+}
+.btn{
+    font-size: 20px;
+    border-radius: 5px;
+    border: none;
+    /* padding: 10px; */
+}
+
+.line{
+    text-decoration: line-through;
+}
